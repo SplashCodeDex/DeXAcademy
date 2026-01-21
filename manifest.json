@@ -1,0 +1,16 @@
+{
+  "name": "Mockup Studio",
+  "short_name": "Mockup Studio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://unpkg.com/lucide-static@0.344.0/icons/package.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
